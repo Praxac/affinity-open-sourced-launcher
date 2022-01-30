@@ -2,15 +2,14 @@
 > 
 >  this is only 1 version
 ```
-<meta name="publisher" content="2022, Void Development" />
-<meta name="author" content="Void Development", "contact@voiddevs.org">
+
 ```
 
 # Affinity
 **Discord Server:** [https://discord.gg/HHzQmk3p](https://discord.gg/HHzQmk3p)<br>
 
 <br>
-> # Developers
+# Developers
 <a href="https://discord.gg/HHzQmk3p">👤 Creamo</a><br>
 
 <br><br>
