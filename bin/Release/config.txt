@@ -1,0 +1,9 @@
+{
+    "token": "",
+    "password": "",
+    "prefix": "",
+    "delete_time": ,
+    "theme": "",
+    "rpc": "",
+    "ban_detection": "False"
+}

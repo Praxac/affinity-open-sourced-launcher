@@ -1,0 +1,13 @@
+C:\Users\Donut\source\repos\Lightout\bin\Debug\Lightout.exe.config
+C:\Users\Donut\source\repos\Lightout\bin\Debug\Lightout.exe
+C:\Users\Donut\source\repos\Lightout\bin\Debug\Lightout.pdb
+C:\Users\Donut\source\repos\Lightout\obj\Debug\Lightout.csproj.AssemblyReference.cache
+C:\Users\Donut\source\repos\Lightout\obj\Debug\Slix_UI.ChangeLog.resources
+C:\Users\Donut\source\repos\Lightout\obj\Debug\Slix_UI.About_us.resources
+C:\Users\Donut\source\repos\Lightout\obj\Debug\Slix_UI.Login.resources
+C:\Users\Donut\source\repos\Lightout\obj\Debug\Lightout_UI.Properties.Resources.resources
+C:\Users\Donut\source\repos\Lightout\obj\Debug\Slix_UI.UI.resources
+C:\Users\Donut\source\repos\Lightout\obj\Debug\Lightout.csproj.GenerateResource.cache
+C:\Users\Donut\source\repos\Lightout\obj\Debug\Lightout.csproj.CoreCompileInputs.cache
+C:\Users\Donut\source\repos\Lightout\obj\Debug\Lightout.exe
+C:\Users\Donut\source\repos\Lightout\obj\Debug\Lightout.pdb

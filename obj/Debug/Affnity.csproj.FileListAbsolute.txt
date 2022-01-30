@@ -1,0 +1,17 @@
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Affnity.csproj.AssemblyReference.cache
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Slix_UI.Login.resources
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Slix_UI.Properties.Resources.resources
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Slix_UI.UI.resources
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Affnity.csproj.GenerateResource.cache
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Affnity.csproj.CoreCompileInputs.cache
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Slix_UI.Gta5.resources
+C:\Users\Donut\source\repos\Affinity Free\bin\Debug\Affinity.rest.exe.config
+C:\Users\Donut\source\repos\Affinity Free\bin\Debug\Affinity.rest.exe
+C:\Users\Donut\source\repos\Affinity Free\bin\Debug\Affinity.rest.pdb
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Affinity.rest.exe
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Affinity.rest.pdb
+C:\Users\Donut\source\repos\Affinity Free\bin\Debug\Affinity.rest.exe.manifest
+C:\Users\Donut\source\repos\Affinity Free\bin\Debug\Affinity.rest.application
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Affinity.rest.TrustInfo.xml
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Affinity.rest.exe.manifest
+C:\Users\Donut\source\repos\Affinity Free\obj\Debug\Affinity.rest.application
