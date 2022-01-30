@@ -6,7 +6,7 @@
 ```
 
 # Affinity
-**Discord Server:** [https://discord.gg/HHzQmk3p](https://discord.gg/HHzQmk3p)<br>
+**Discord Server:** [Discord](https://discord.gg/RX72dx6jM2)<br>
 
 <br>
 # Developers
